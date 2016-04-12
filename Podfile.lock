@@ -1,0 +1,20 @@
+PODS:
+  - Alamofire (3.2.1)
+  - SuperRecord (1.6):
+    - SuperRecord/watch (= 1.6)
+  - SwiftSpinner (0.8.0)
+  - SwiftyJSON (2.3.2)
+
+DEPENDENCIES:
+  - Alamofire
+  - SuperRecord
+  - SwiftSpinner
+  - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: f11d8624a05f5d39e0c99309b3e600a3ba64298a
+  SuperRecord: 4c7da8ef3d96cc46cc5deb9a9cd0382515edd81a
+  SwiftSpinner: 11c2c5ec7443d92f3026d3067ca8a91d4adef13f
+  SwiftyJSON: 04ccea08915aa0109039157c7974cf0298da292a
+
+COCOAPODS: 0.39.0
