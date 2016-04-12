@@ -1,0 +1,21 @@
+
+/* Class = "UILabel"; text = "Rate"; ObjectID = "7bK-8U-knA"; */
+"7bK-8U-knA.text" = "音速";
+
+/* Class = "UIButton"; normalTitle = "Play"; ObjectID = "8Bx-LI-QrQ"; */
+"8Bx-LI-QrQ.normalTitle" = "播放";
+
+/* Class = "UIButton"; normalTitle = "Play"; ObjectID = "DXO-Au-ItY"; */
+"DXO-Au-ItY.normalTitle" = "播放";
+
+/* Class = "UILabel"; text = "Volume"; ObjectID = "aeQ-MJ-D7Y"; */
+"aeQ-MJ-D7Y.text" = "音量";
+
+/* Class = "UIButton"; normalTitle = "Pause"; ObjectID = "bR8-ya-jdi"; */
+"bR8-ya-jdi.normalTitle" = "暂停";
+
+/* Class = "UIButton"; normalTitle = "Pause"; ObjectID = "k1D-oV-RJ7"; */
+"k1D-oV-RJ7.normalTitle" = "暂停";
+
+/* Class = "UILabel"; text = "Pitch"; ObjectID = "vz9-UO-6LO"; */
+"vz9-UO-6LO.text" = "音高";

@@ -1,0 +1,15 @@
+
+/* Class = "UIButton"; normalTitle = "Change"; ObjectID = "0Fi-Fe-G2n"; */
+"0Fi-Fe-G2n.normalTitle" = "切换字体";
+
+/* Class = "UIButton"; normalTitle = "Reset"; ObjectID = "Kqs-aE-RBW"; */
+"Kqs-aE-RBW.normalTitle" = "重置";
+
+/* Class = "UIButton"; normalTitle = "Pause"; ObjectID = "WGM-cn-PQ2"; */
+"WGM-cn-PQ2.normalTitle" = "暂停";
+
+/* Class = "UIButton"; normalTitle = "Start"; ObjectID = "bJf-EW-D8P"; */
+"bJf-EW-D8P.normalTitle" = "开始";
+
+/* Class = "UILabel"; text = "0.0"; ObjectID = "tWN-dG-Op2"; */
+"tWN-dG-Op2.text" = "0.0";

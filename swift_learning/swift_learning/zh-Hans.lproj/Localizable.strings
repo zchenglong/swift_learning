@@ -1,0 +1,26 @@
+/* 
+  Localizable.strings
+  swift_learning
+
+  Created by 张成龙 on 16/3/31.
+  Copyright © 2016年 Skyworth. All rights reserved.
+*/
+
+"NAV_TITLE_EXAMPLE"="示例";
+"NAV_TITLE_BOOK"="图书";
+"NAV_TITLE_APPLE"="官方";
+"NAV_TITLE_MINE"="个人";
+
+"DEMOS_WATCH"="秒表";
+"DEMOS_FONTS"="自定义字体";
+"DEMOS_VIDEO"="视频";
+"DEMOS_CAMERA"="相机";
+"DEMOS_EFFECT"="特效";
+"DEMOS_LOCATION"="地理位置";
+
+"BOOKS_VIDEOPLAYER"="视频播放器";
+"BOOKS_AUDIOPLAYER"="音频播放器";
+"BOOKS_SPEEACH_SYNTHESIS"="语音合成";
+"BOOKS_PICKER"="相机照片";
+
+"MINES_LOOKINFO"="查看设备信息";

@@ -1,0 +1,15 @@
+
+/* Class = "UIButton"; normalTitle = "Change"; ObjectID = "0Fi-Fe-G2n"; */
+"0Fi-Fe-G2n.normalTitle" = "Change";
+
+/* Class = "UIButton"; normalTitle = "Reset"; ObjectID = "Kqs-aE-RBW"; */
+"Kqs-aE-RBW.normalTitle" = "Reset";
+
+/* Class = "UIButton"; normalTitle = "Pause"; ObjectID = "WGM-cn-PQ2"; */
+"WGM-cn-PQ2.normalTitle" = "Pause";
+
+/* Class = "UIButton"; normalTitle = "Start"; ObjectID = "bJf-EW-D8P"; */
+"bJf-EW-D8P.normalTitle" = "Start";
+
+/* Class = "UILabel"; text = "0.0"; ObjectID = "tWN-dG-Op2"; */
+"tWN-dG-Op2.text" = "0.0";
